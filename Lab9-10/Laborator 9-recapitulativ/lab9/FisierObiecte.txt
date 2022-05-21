@@ -1,0 +1,9 @@
+PsA 100 5
+Ps1 150 2Ps2 170 albPs3 180 roz3 lung,gros,greu 
+PsB 550 rosu
+PsA 100 5
+Ps1 150 2Ps2 170 albPs3 180 roz3 lung,gros,greu 
+PsB 550 rosu
+PsA 100 5
+Ps1 150 2Ps2 170 albPs3 180 roz3 lung,gros,greu 
+PsB 550 rosu

@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1639482523 source:c:\users\legion\desktop\laburi poo\lab9-10\laborator 9-recapitulativ\lab9\main.cpp
+	"Ansamblu.h"
+
+1639481000 c:\users\legion\desktop\laburi poo\lab9-10\laborator 9-recapitulativ\lab9\piesa.h
+	"Baza.h"
+
+1639482486 source:c:\users\legion\desktop\laburi poo\lab9-10\laborator 9-recapitulativ\lab9\piesa.cpp
+	"Piesa.h"
+
+1639482467 source:c:\users\legion\desktop\laburi poo\lab9-10\laborator 9-recapitulativ\lab9\piesa_a.cpp
+	"Piesa_A.h"
+
+1639481182 c:\users\legion\desktop\laburi poo\lab9-10\laborator 9-recapitulativ\lab9\piesa_a.h
+	"Piesa.h"
+
+1639482430 source:c:\users\legion\desktop\laburi poo\lab9-10\laborator 9-recapitulativ\lab9\piesa_b.cpp
+	"Piesa_B.h"
+
+1639481398 c:\users\legion\desktop\laburi poo\lab9-10\laborator 9-recapitulativ\lab9\piesa_b.h
+	"Piesa.h"
+
+1639482455 source:c:\users\legion\desktop\laburi poo\lab9-10\laborator 9-recapitulativ\lab9\ansamblu.cpp
+	"Ansamblu.h"
+
+1639481420 c:\users\legion\desktop\laburi poo\lab9-10\laborator 9-recapitulativ\lab9\ansamblu.h
+	"Piesa_A.h"
+	"Piesa_B.h"
+	"Baza.h"
+
+1639480985 c:\users\legion\desktop\laburi poo\lab9-10\laborator 9-recapitulativ\lab9\baza.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+
