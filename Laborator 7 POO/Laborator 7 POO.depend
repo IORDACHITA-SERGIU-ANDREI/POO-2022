@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1638457126 source:c:\users\legion\desktop\laburi poo\lab7-8\lab 7\laborator 7 poo\angajat.cpp
+	"Angajat.h"
+
+1638458783 source:c:\users\legion\desktop\laburi poo\lab7-8\lab 7\laborator 7 poo\main.cpp
+	"Student_Angajat.h"
+
+1638457729 source:c:\users\legion\desktop\laburi poo\lab7-8\lab 7\laborator 7 poo\student.cpp
+	"Student.h"
+
+1638457853 source:c:\users\legion\desktop\laburi poo\lab7-8\lab 7\laborator 7 poo\student_angajat.cpp
+	"Student_Angajat.h"
+
+1638457107 c:\users\legion\desktop\laburi poo\lab7-8\lab 7\laborator 7 poo\angajat.h
+	"Baza.h"
+
+1638457078 c:\users\legion\desktop\laburi poo\lab7-8\lab 7\laborator 7 poo\baza.h
+	<iostream>
+	<string.h>
+
+1638457147 c:\users\legion\desktop\laburi poo\lab7-8\lab 7\laborator 7 poo\student.h
+	"Baza.h"
+
+1638457473 c:\users\legion\desktop\laburi poo\lab7-8\lab 7\laborator 7 poo\student_angajat.h
+	"Angajat.h"
+	"Student.h"
+
