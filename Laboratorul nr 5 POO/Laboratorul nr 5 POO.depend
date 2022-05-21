@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1637188747 source:c:\users\legion\desktop\laburi poo\lab 5\laboratorul nr 5 poo\electrocasnic.cpp
+	"Electrocasnic.h"
+
+1637064789 c:\users\legion\desktop\laburi poo\lab 5\laboratorul nr 5 poo\electrocasnic.h
+	<iostream>
+	<string.h>
+	"Produs.h"
+
+1637066082 c:\users\legion\desktop\laburi poo\lab 5\laboratorul nr 5 poo\produs.h
+	<iostream>
+	<string.h>
+
+1637188820 source:c:\users\legion\desktop\laburi poo\lab 5\laboratorul nr 5 poo\main.cpp
+	<iostream>
+	<string.h>
+	"TV.h"
+
+1637188195 c:\users\legion\desktop\laburi poo\lab 5\laboratorul nr 5 poo\tv.h
+	<iostream>
+	<string.h>
+	"Electrocasnic.h"
+
+1637066095 source:c:\users\legion\desktop\laburi poo\lab 5\laboratorul nr 5 poo\produs.cpp
+	<iostream>
+	<string.h>
+	"Produs.h"
+
+1637188785 source:c:\users\legion\desktop\laburi poo\lab 5\laboratorul nr 5 poo\tv.cpp
+	"TV.h"
+
+1637069695 source:c:\users\legion\desktop\an 2\semestrul 1\poo\laburi poo\lab 5\laboratorul nr 5 poo\produs.cpp
+	<iostream>
+	<string.h>
+	"Produs.h"
+
+1637069682 c:\users\legion\desktop\an 2\semestrul 1\poo\laburi poo\lab 5\laboratorul nr 5 poo\produs.h
+	<iostream>
+	<string.h>
+
+1637192385 source:c:\users\legion\desktop\an 2\semestrul 1\poo\laburi poo\lab 5\laboratorul nr 5 poo\tv.cpp
+	"TV.h"
+
+1637191795 c:\users\legion\desktop\an 2\semestrul 1\poo\laburi poo\lab 5\laboratorul nr 5 poo\tv.h
+	<iostream>
+	<string.h>
+	"Electrocasnic.h"
+
+1637068389 c:\users\legion\desktop\an 2\semestrul 1\poo\laburi poo\lab 5\laboratorul nr 5 poo\electrocasnic.h
+	<iostream>
+	<string.h>
+	"Produs.h"
+
