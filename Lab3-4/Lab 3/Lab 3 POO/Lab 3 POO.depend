@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1636207402 source:c:\users\legion\desktop\laburi poo\lab3-4\lab 3\lab 3 poo\main.cpp
+	<iostream>
+	<string.h>
+	"MyString.h"
+
+1636030049 c:\users\legion\desktop\laburi poo\lab3-4\lab 3\lab 3 poo\mystring.h
+	<iostream>
+
+1636199699 source:c:\users\legion\desktop\laburi poo\lab3-4\lab 3\lab 3 poo\mystring.cpp
+	<iostream>
+	<string.h>
+	"MyString.h"
+

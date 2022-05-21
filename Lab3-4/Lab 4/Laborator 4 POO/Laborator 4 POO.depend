@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1636208962 source:c:\users\legion\desktop\laburi poo\lab3-4\lab 4\laborator 4 poo\garantie.cpp
+	<iostream>
+	<string.h>
+	"Garantie.h"
+
+1636198380 c:\users\legion\desktop\laburi poo\lab3-4\lab 4\laborator 4 poo\garantie.h
+	<iostream>
+
+1636209670 source:c:\users\legion\desktop\laburi poo\lab3-4\lab 4\laborator 4 poo\main.cpp
+	<iostream>
+	<string.h>
+	"Produs.h"
+
+1636199085 c:\users\legion\desktop\laburi poo\lab3-4\lab 4\laborator 4 poo\produs.h
+	<iostream>
+	"Garantie.h"
+
+1636199073 source:c:\users\legion\desktop\laburi poo\lab3-4\lab 4\laborator 4 poo\produs.cpp
+	<iostream>
+	<string.h>
+	"Produs.h"
+
