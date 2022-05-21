@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1634927711 source:c:\users\legion\desktop\gggg\exercitiul2\angajat.cpp
+	<iostream>
+	<string.h>
+	"Angajat.h"
+
+1634928032 c:\users\legion\desktop\gggg\exercitiul2\angajat.h
+	<iostream>
+
+1634927916 source:c:\users\legion\desktop\gggg\exercitiul2\main.cpp
+	<iostream>
+	<string.h>
+	"Angajat.h"
+
