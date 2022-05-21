@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1637253734 source:c:\users\legion\desktop\laburi poo\lab5-6\lab 6\lab 6 poo\main.cpp
+	<iostream>
+	<string.h>
+	"Teren.h"
+	"Imobil.h"
+
+1637250790 c:\users\legion\desktop\laburi poo\lab5-6\lab 6\lab 6 poo\proprietate.h
+	<iostream>
+	<string.h>
+
+1637248000 source:c:\users\legion\desktop\laburi poo\lab5-6\lab 6\lab 6 poo\proprietate.cpp
+	<iostream>
+	<string.h>
+	"Proprietate.h"
+
+1637252856 source:c:\users\legion\desktop\laburi poo\lab5-6\lab 6\lab 6 poo\imobil.cpp
+	"Imobil.h"
+
+1637248014 c:\users\legion\desktop\laburi poo\lab5-6\lab 6\lab 6 poo\imobil.h
+	<iostream>
+	<string.h>
+	"Proprietate.h"
+
+1637252798 source:c:\users\legion\desktop\laburi poo\lab5-6\lab 6\lab 6 poo\teren.cpp
+	"Teren.h"
+
+1637248147 c:\users\legion\desktop\laburi poo\lab5-6\lab 6\lab 6 poo\teren.h
+	<iostream>
+	<string.h>
+	"Proprietate.h"
+
